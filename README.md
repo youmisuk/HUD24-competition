@@ -21,7 +21,7 @@ Through this competition, our goal is *(will be updated)*.
 
 For this competition, you will form a team with up to 4 people who come from at least two different programs.
 
-We eagerly invite your participation and contributions to this thrilling competition, and we are excited about advancing the field together."
+We eagerly invite your participation and contributions to this thrilling competition, and we are excited about advancing the field together.
 
 In short:
 
@@ -45,7 +45,7 @@ You'll find data in this repository,
 The data consists of *(will be updated)*
 
 ## Evaluation
-Submissions are evaluated on e.g., the root mean squared error (will be updated).
+Submissions are evaluated on e.g., the root mean squared error *(will be updated)*.
 
 ```math 
 
