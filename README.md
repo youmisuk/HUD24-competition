@@ -75,7 +75,7 @@ Competition runs February 9 and April 8.
 
 - Teams that secure the 1st and 2nd places will be awarded. *(will be updated)*
 
-- The two winning teams will present their work on April 29, which is the final meeting date for the HUD PhD Research Working Group meeting."
+- The two winning teams will present their work on April 29, which is the final meeting date for the HUD PhD Research Working Group meeting.
 
 
 ## Contact
