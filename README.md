@@ -26,7 +26,7 @@ We eagerly invite your participation and contributions to this thrilling competi
 In short:
 
 - Task is to *(will be updated)*
-- Data *(may be simulated)* from BFY ([www.babysfirstyears.com](www.babysfirstyears.com)), in this repository
+- Data *(may be simulated)* from BFY ([www.babysfirstyears.com](http://www.babysfirstyears.com)), in this repository
 - Competition runs February 9 and April 8. 
 - Submissions [here]()
 - The teams that are the first and second winners will present their work on April 29.
